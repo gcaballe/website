@@ -16,7 +16,10 @@
 				<article data-aos="fade-left" data-aos-duration="750">
 					<h2>About us</h2>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas suscipit purus a dictum finibus. Nulla sed hendrerit ipsum. Nulla sagittis et nulla nec viverra. Suspendisse mattis nibh id dolor accumsan posuere et vel leo. Donec non elit pretium, pellentesque quam eu, hendrerit turpis. In vel nunc varius, varius turpis eget, varius massa. Curabitur vitae libero quis dui volutpat consectetur eget id elit. Fusce euismod nunc eu sem iaculis, eu imperdiet risus congue. Phasellus mattis nibh sit amet laoreet tempus.
+						Kronos Studios es una empresa de creación de videojuegos que  busca innovar en la creación de videojuegos, lo mejor de todo es que su primer producto es un aplicativo móvil,  de esta forma buscamos estar más cerca de  nuestro público y acompañarlos en sus momentos de aburrimiento.
+					</p>
+					<p>
+						Comenzamos la empresa con la idea de acompañar y brindar la mejor experiencia a los usuarios, cada proyecto se realiza pensando lo que quieren y desean los  clientes. Esta idea del nuevo videojuego nació después de la experiencia de los desarrolladores con otros juegos, es por ello que la empresa toma como prioridad las necesidades, deseos y demanda de los usuarios para los futuros proyectos.
 					</p>
 				</article>
 			</section>
@@ -35,8 +38,9 @@
 					</div>
 					<div class="card" data-aos="fade-up" data-aos-duration="750" data-aos-delay="250">
 						<img src="https://placekitten.com/250/350" alt="">
-						<p class="name">Germán Pérez Bordera</p>
+						<p class="name">Guillem Caballé Tomàs</p>
 						<p>Founder | Fullstack dev</p>
+						<p>Soy técnico superior en desarrollo de aplicaciones web y multiplataforma. Gamer desde pequeño</p>
 						<div class="socials">
 							<a href=""><font-awesome-icon :icon="['fab', 'twitter']" /></a>
 							<a href=""><font-awesome-icon :icon="['fab', 'linkedin']" /></a>
